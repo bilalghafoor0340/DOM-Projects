@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  margin: 100px auto 100px;
+  width: 80%;
+  text-align: center;
+}
+
+.button {
+  height: 100px;
+  width: 100px;
+  border: solid black 2px;
+  display: inline-block;
+}
+span {
+  display: block;
+  margin-top: 20px;
+  cursor: pointer;
+  /* gap: 30px; */
+}
+#we {
+  background: grey;
+}
+
+#green {
+  background: green;
+}
+#blue {
+  background: blue;
+}
+#yellow {
+  background: yellow;
+}
+
+#pink {
+  background: pink;
+}
+#purple {
+  background: purple;
+}
